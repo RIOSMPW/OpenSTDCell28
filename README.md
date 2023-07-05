@@ -15,6 +15,25 @@ In addition, the open-source nature of the library allows for customization and 
 
 Overall, an Open Standard Cell Library 28nm is an important resource for designers who want to create custom integrated circuits. The availability of a free and open-source library reduces the cost of designing an integrated circuit and allows for customization to meet the specific needs of a project.
 
+## Standard Cell Library
+
+A standard cell library is a collection of pre-designed and pre-characterized digital logic circuits. These circuits are typically used in the design of integrated circuits. Standard cell libraries are designed to be reusable and modular, allowing designers to quickly and easily create complex circuits by combining pre-designed cells.
+
+Standard cell libraries are an important tool for digital circuit designers, as they can significantly reduce the time and cost of designing a chip. Rather than designing every individual logic gate from scratch, designers can simply select the appropriate pre-designed cell from the library and connect them together to create the desired circuit.
+
+Standard cell libraries are typically developed by semiconductor companies or third-party vendors and are often licensed for use by other companies. However, there are also open-source standard cell libraries available, such as the Open Standard Cell Library 28nm described in this document.
+
+![b1bb7779196a46d0191c8ba78af8e6bf_Layout-of-cells-in-the-Standard-Cell-Library](https://github.com/RIOSMPW/OpenSTDCell28/assets/100336131/d5cb76f5-faf4-42b2-8e6c-a684dfbabf02)
+Layout of cells in the Standard Cell Library(Source:Wei Man Chim)
+
+In addition to reducing the time and cost of chip design, standard cell libraries also help to ensure design consistency and accuracy. By using pre-characterized cells, designers can be confident that the circuit will behave as expected and meet the desired specifications.
+
+Overall, standard cell libraries are a valuable tool for digital circuit designers, allowing them to create complex circuits quickly, efficiently, and accurately.
+
+![image](https://github.com/RIOSMPW/OpenSTDCell28/assets/100336131/d4420266-bcc5-4ea5-bad4-e631fc643caa)
+
+Design Flow of a Standard Cell Library and the Tools used(Source:Sangmesh Melinmani)
+
 
 ## About RIOS Lab
 
