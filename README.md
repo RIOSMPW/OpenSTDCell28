@@ -2,7 +2,18 @@
 
 
 # OpenSTDCell28
-Open stadard cell library for open 28nm process
+
+OpenSTDCell28 is short for Open standard cell library for open 28nm process.
+
+An Open Standard Cell Library 28nm is a library of standard cells that is provided to the public without any licensing or copyright restrictions. The library is made up of pre-designed and pre-characterized standard cells that can be used in the design of integrated circuits.
+
+The 28nm process node refers to the size of the transistors used in the library. A smaller process node allows for more transistors to be placed on a chip, leading to higher performance and lower power consumption.
+
+Open Standard Cell Library 28nm is beneficial for designers who want to reduce the cost of designing an integrated circuit. The availability of a free and open-source library reduces the cost of licensing proprietary libraries and allows designers to focus on the actual design rather than the cost of the library.
+
+In addition, the open-source nature of the library allows for customization and modification to meet the specific needs of a particular project. An Open Standard Cell Library 28nm is a valuable tool for designers who want to create custom integrated circuits.
+
+Overall, an Open Standard Cell Library 28nm is an important resource for designers who want to create custom integrated circuits. The availability of a free and open-source library reduces the cost of designing an integrated circuit and allows for customization to meet the specific needs of a project.
 
 
 ## About RIOS Lab
